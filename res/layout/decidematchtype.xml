@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/GridLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:columnCount="5"
+            android:orientation="vertical" >
+
+    <Button
+            android:id="@+id/btnBeker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:text="@string/btn_beker" />
+
+    <Button
+            android:id="@+id/btnCompetitie"
+            android:layout_width="121dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="2"
+            android:text="@string/btn_competitie" />
+
+    <Space
+            android:layout_width="1dp"
+            android:layout_height="43dp"
+            android:layout_column="0"
+            android:layout_row="0" />
+
+    <Space
+            android:layout_width="1dp"
+            android:layout_height="86dp"
+            android:layout_column="0"
+            android:layout_row="1" />
+
+    <Space
+            android:layout_width="1dp"
+            android:layout_height="76dp"
+            android:layout_column="0"
+            android:layout_row="2" />
+
+    <Space
+            android:layout_width="1dp"
+            android:layout_height="72dp"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_row="3" />
+
+    <Space
+            android:layout_width="1dp"
+            android:layout_height="30dp"
+            android:layout_column="0"
+            android:layout_row="4" />
+
+    <Space
+            android:layout_width="1dp"
+            android:layout_height="128dp"
+            android:layout_column="0"
+            android:layout_row="5" />
+
+    <Space
+            android:layout_width="21dp"
+            android:layout_height="1dp"
+            android:layout_column="0"
+            android:layout_row="0" />
+
+    <Space
+            android:layout_width="10dp"
+            android:layout_height="1dp"
+            android:layout_column="2"
+            android:layout_row="0" />
+
+    <Space
+            android:layout_width="140dp"
+            android:layout_height="1dp"
+            android:layout_column="1"
+            android:layout_row="0" />
+
+</GridLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, KickerCBKLActivity!</string>
+    <string name="app_name">KickerCBKL</string>
+    <string name="btn_ingavewedstrijd">Ingave wedstrijd</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_spelers">Spelers</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_opties">Opties</string>
+    <string name="btn_clubs">Clubs</string>
+    <string name="btn_klassement">Klassement</string>
+    <string name="btn_beker">Beker</string>
+    <string name="btn_competitie">Competitie</string>
+    <string name="btn_uitslagen">Uitslagen</string>
+    <string name="spelers_menu_update">Update</string>
+    <string name="clear_all_players">Clear All</string>
+    <string name="clear_all_clubs">Clear All</string>
+
+</resources>
